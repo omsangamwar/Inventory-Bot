@@ -8,7 +8,7 @@
  product information.
 
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ### Technology Used :
+ ## Technology Used :
 ##### 1)Google Palm LLM
 ##### 2)Hugging face embeddings
 ##### 3)Streamlit for UI
@@ -17,13 +17,16 @@
 ##### 6)Few shot learning
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Ui Design
+## Ui Design
 ![image](https://github.com/omsangamwar/Inventory-Bot/assets/117922569/713cadf4-37e3-4dec-8253-bb6862990b9c)
 
 ## Working
 
 
-### Project Strcture :
+https://github.com/omsangamwar/Inventory-Bot/assets/117922569/e0824386-5306-48fd-9897-3eb991d5cb66
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Project Strcture :
 ##### main.py: The main Streamlit application script.
 ##### app.py: This has all the langchain code
 ##### requirements.txt: A list of required Python packages for the project.

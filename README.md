@@ -1,5 +1,5 @@
 # Inventory-Bot : Talk To dataBase
-##### ---
+##### -
 
 
 ### Problem Statement :
